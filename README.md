@@ -46,18 +46,6 @@ This PDF shows:
 
 ---
 
-## About OnSSET
-
-OnSSET (Open Source Spatial Electrification Tool) is a GIS-based modeling framework for least-cost electrification planning in unserved areas. It uses geospatial and socio-economic data to identify optimal electricity supply options—including grid extension, mini-grids, and standalone systems—under multiple scenarios and constraints.
-
-OnSSET is composed of:
-- A Python-based simulation engine for scenario execution
-- A QGIS plugin suite for input preparation
-- Structured output files that capture electrification pathways and system costs
-- Tools for visualizing spatial results and generating investment-ready summaries
-
----
-
 ## Install OnSSET
 
 To install OnSSET:
@@ -76,6 +64,9 @@ To install OnSSET:
 2. Define scenario parameters in `runner.py`
 3. Run the model:
 `python runner.py`
-4. References:  
- Official repo: [https://github.com/OnSSET/onsset](https://github.com/OnSSET/onsset)  
- Documentation: [https://onsset.readthedocs.io/](https://onsset.readthedocs.io/)
+
+---
+
+References:  
+Official repo: [https://github.com/OnSSET/onsset](https://github.com/OnSSET/onsset)  
+Documentation: [https://onsset.readthedocs.io/](https://onsset.readthedocs.io/)
