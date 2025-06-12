@@ -1,4 +1,4 @@
-# OnSSET
+# 🛠️ OnSSET
 
 OnSSET is a Geographic Information Systems (GIS)-based electrification planning tool developed to assess the least-cost pathways for universal electricity access. It models spatially explicit scenarios that combine population distribution, infrastructure, and renewable energy data to suggest the most economical electrification options for each settlement. The tool supports both centralized grid extension and decentralized off-grid solutions over medium- and long-term timeframes.
 
@@ -9,7 +9,7 @@ OnSSET is composed of:
 - Output CSV files that describe settlement-level electrification strategies and cost metrics  
 - Visualization tools that help explore, map, and compare results across scenarios
 
-## Documentation
+## 📄 Documentation
   
 Here you will find everything to install and run OnSSET:
 
@@ -52,7 +52,7 @@ You can find all tutorials on <a href="https://www.youtube.com/playlist?list=PLH
   <img src="https://cdn.simpleicons.org/youtube/FF0000/16" alt="YouTube" height="16" style="vertical-align: text-bottom; margin-left: 4px;">
 </a>
 
-## Additional support
+## 💡 Additional support
 ### Install OnSSET
 
 To install OnSSET:
@@ -72,7 +72,9 @@ To install OnSSET:
 3. Run the model:
 `python runner.py`
 
+### ❓ Need Help?
 
+Check our [Questions & Answers](docs/faq.md) page for common issues and guidance.
 
 ---
 
