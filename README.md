@@ -8,6 +8,8 @@ OnSSET is composed of:
 - A QGIS plugin suite that helps preprocess spatial data and generate model inputs  
 - Output CSV files that describe settlement-level electrification strategies and cost metrics  
 - Visualization tools that help explore, map, and compare results across scenarios
+
+## Documentation
   
 Here you will find everything to install and run OnSSET:
 
@@ -44,9 +46,14 @@ This PDF shows:
 - Steps to create point maps from CSV output
 - How to classify, symbolize, and export maps for reporting and presentation
 
----
+## 🎥 Step-by-step Video Support
 
-## Install OnSSET
+You can find all tutorials on <a href="[https://youtube.com/@africanenergymodellingnetwork](https://www.youtube.com/playlist?list=PLHN93NPePQ1JNz3JROb_sVbF5pjOG-EDx)" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000/16" alt="YouTube" height="16" style="vertical-align: text-bottom; margin-left: 4px;">
+</a>
+
+## Additional support
+### Install OnSSET
 
 To install OnSSET:
 - Use the [Installation Guide](./Installation%20Guide%20for%20OnSSET.pdf)  
@@ -58,12 +65,14 @@ To install OnSSET:
   - [Population Clustering Plugin](https://github.com/OnSSET/PopCluster)
   - [GEP Plugin](https://github.com/OnSSET/ClusterbasedExtraction)
 
-## Run OnSSET
+### Run OnSSET
 
 1. Prepare input data layers and `CountrySpecs.xlsx`
 2. Define scenario parameters in `runner.py`
 3. Run the model:
 `python runner.py`
+
+
 
 ---
 
